@@ -1,0 +1,1 @@
+move_towards_point(x - 16, y, 0.5)
